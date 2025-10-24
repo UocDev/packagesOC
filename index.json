@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "hello",
+      "latest": "1.0.0",
+      "url": "https://uocdev.github.io/packagesOC/hello/latest.json"
+    }
+    // …  …
+  ]
+}

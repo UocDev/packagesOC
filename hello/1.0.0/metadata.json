@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Contoh paket hello",
+  "author": "UocDev",
+  "destination": "/usr/bin",
+  "parts": 1
+}
