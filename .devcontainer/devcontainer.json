@@ -1,0 +1,17 @@
+{
+  "name": "Arch Linux Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-azuretools.vscode-docker",
+        "github.copilot"
+      ]
+    }
+  },
+  "forwardPorts": [22],
+  "remoteUser": "root"
+}
